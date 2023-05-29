@@ -9,7 +9,7 @@ Impacto: Link de pagamento
 
 ## Execução do Deploy
 Dia: 01/01/2023
-Horário: 20 hrs da noite
+Horário: 20 hrs
 
 ## Variável de Ambiente
 Se tiver:
