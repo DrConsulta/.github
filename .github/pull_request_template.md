@@ -19,6 +19,13 @@ Descritivo caso necessario
 - DRC_PRODUTOS_API_PASSWORD
 - DRC_PRODUTOS_API_URL
 ```
+No caso de site informar em qual serviço e em qual gatilho que deve ser colocado a variável de ambiente 
+
+```
+- DRC_CMS_URL - Cloud Run - site-frontend-prod
+- DRC_CMS_USER - Cloud Build - site-frontend-prod
+- DRC_CMS_USER - Cloud Build - site-buildcontinuofrontend-prod 
+```
 Se nao tiver:
 - null
 
