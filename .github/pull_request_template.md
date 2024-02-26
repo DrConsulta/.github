@@ -8,8 +8,8 @@ Descrição: Informação se o produto é agendável ou não na listagem de prod
 Impacto: Link de pagamento
 
 ## Execução do Deploy
-Dia: 01/01/2023
-Horário: 20 hrs
+Dia: 01/01/2024
+Horário: 19 hrs
 
 ## Variável de Ambiente
 Se tiver:
